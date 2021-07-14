@@ -1,0 +1,32 @@
+body {
+  font-family: "Poppins", sans-serif;
+  color: #1f1f1f;
+}
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+h1 {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-weight: bolder;
+  color: #fff;
+}
+
+
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: Ubuntu;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family:
+}
